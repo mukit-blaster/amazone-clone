@@ -5,5 +5,6 @@ This project is a replica of the Amazon website. It showcases products, categori
 
 ## 🔗 Demo
 Click the link below to explore live preview:
+https://mukit-blaster.github.io/amazone_clone/
 
 
